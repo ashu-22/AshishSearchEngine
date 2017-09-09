@@ -1,0 +1,4 @@
+mysql_connect ( "localhost", "USER_NAME", "PASSWORD" ) ; 
+mysql_select_db ( "DB_NAME" );
+
+
